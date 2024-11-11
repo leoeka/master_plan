@@ -15,6 +15,9 @@
 ## no 2 = Gambar tersebut menunjukkan bagaimana aplikasi Flutter menggunakan Navigator untuk berpindah antar halaman. 1. Di sebelah kiri kita melihat widget tree untuk halaman PlanCreatorScreen halaman ini berisi TextField, Expanded, dan ListView. 2. Di sebelah kanan kita melihat widget tree untuk halaman PlanScreen halaman ini berisi Scaffold, Column, Expanded, SafeArea, ListView, dan Text. 3. Anak panah biru menunjukkan proses Navigator Push yang digunakan untuk berpindah dari PlanCreatorScreen ke PlanScreen. Ketika Navigator Push digunakan, PlanCreatorScreen akan ditambahkan ke stack Navigator dan PlanScreen akan ditampilkan di atasnya. Hal ini memungkinkan pengguna untuk kembali ke PlanCreatorScreen menggunakan Navigator Pop
 ## no 3 = membuat tampilan pada yang awal nya seperti pada pratikum ke 2 menjadi lebih baik dalam artian tampilan nya sudah berbeda dari yang sebelum nya dengan mengilangkan tombol tambah, dan mengalihkan fungsi ketika menambahkan tugas maka akan bisa tampil ketika menekan tombol enter pada keyboard laptop saat pratikum ini.
 
+## tampilan akhir = ![Screen Recording 2024-11-11 050447](https://github.com/user-attachments/assets/86ea97ce-2743-4c87-8e9c-9935633f48cf)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
